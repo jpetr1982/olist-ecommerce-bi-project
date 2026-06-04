@@ -1,7 +1,7 @@
 # E-Commerce Business Performance & Customer Insights (Olist Dataset)
 
 ## 📌 Project Overview
-This is an **End-to-End Business Intelligence (BI)** project designed to analyze e-commerce data from Olist (Brazilian E-Commerce Public Dataset). The goal is to transform raw, decentralized data into actionable business strategic insights for executive decision-making.
+This is an **End-to-End Business Intelligence (BI)** project designed to analyze e-commerce data from Olist ([Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)). The goal is to transform raw, decentralized data into actionable business strategic insights for executive decision-making.
 
 The project demonstrates a complete data pipeline: **Data Storage & Modeling (SQL) ➔ Ad-hoc Reporting (Excel) ➔ Interactive Dashboards (Power BI) ➔ Stakeholder Communication (PowerPoint).**
 
